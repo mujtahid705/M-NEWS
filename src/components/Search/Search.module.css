@@ -1,0 +1,27 @@
+.search__section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search__section input {
+  border-radius: 14px;
+  border: 2px solid #e0e0e0;
+  padding: 10px;
+  height: 1rem;
+  width: 20rem;
+  outline: none;
+}
+
+.search__section button {
+  margin-left: 10px;
+  background-color: #e0e0e0;
+  border: 2px solid #e0e0e0;
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.search__section button:hover {
+  background-color: #90caf9;
+}

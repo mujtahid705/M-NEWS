@@ -1,0 +1,7 @@
+.news-section {
+  display: flex;
+}
+
+.card {
+  margin: 50px 150px;
+}

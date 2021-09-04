@@ -1,0 +1,17 @@
+.nav {
+  height: 15vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav img {
+  height: 150px;
+  width: 150px;
+}
+
+.nav p {
+  font-family: "Lato", sans-serif;
+  color: white;
+  font-size: 150px;
+}

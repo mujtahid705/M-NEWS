@@ -1,0 +1,27 @@
+.news {
+  background-color: #e0e0e0;
+  height: 63vh;
+  width: 70vw;
+  border-radius: 14px;
+  padding: 5rem;
+  margin-left: 1rem;
+  font-family: "Roboto", sans-serif;
+  overflow: scroll;
+}
+
+.img-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.news img {
+  height: 350px;
+  width: auto;
+  margin: 0 auto;
+}
+
+p {
+  font-size: 20px;
+}
